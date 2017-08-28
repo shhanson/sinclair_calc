@@ -1,0 +1,3 @@
+rootProject.name = 'sinclair_calc'
+
+include ':app'
